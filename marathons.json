@@ -1640,7 +1640,7 @@
    "dow": "일",
    "name": "국립창원대학교와 MBC경남 제2회 벚꽃마라톤",
    "location": "국립창원대학교 일원",
-   "region": "경남 창원",
+   "region": null,
    "distances": [
     "10km",
     "5km"
@@ -2396,7 +2396,7 @@
    "dow": "일",
    "name": "제14회 광명육상연맹회장배 건강달리기",
    "location": "광명 찬빛광장(안양천)",
-   "region": "경기 안양",
+   "region": null,
    "distances": [
     "10km",
     "5km"
@@ -3224,7 +3224,7 @@
    "dow": "토",
    "name": "달려용,인 RUN FESTA",
    "location": "(구)용인종합운동장",
-   "region": "경기 용인",
+   "region": null,
    "distances": [
     "10km",
     "5km"
@@ -4511,7 +4511,7 @@
    "dow": "일",
    "name": "2026 광제산 트레일 런",
    "location": "홍지소류지(진주 명석면 계원리",
-   "region": "경남 진주",
+   "region": null,
    "distances": [
     "하프",
     "10km",
@@ -4556,7 +4556,7 @@
    "dow": "토",
    "name": "제2회 울릉나이트런",
    "location": "울릉군 현포항",
-   "region": "경북 포항",
+   "region": "경북 울릉",
    "distances": [
     "10km"
    ],
@@ -5324,7 +5324,7 @@
    "dow": "일",
    "name": "제14회설악산공룡능선UTMB",
    "location": "설익산한계령휴계소",
-   "region": "전북 익산",
+   "region": null,
    "distances": [
     "27km",
     "22km"

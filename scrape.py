@@ -29,8 +29,9 @@ def region_of(location: str):
     for p in PROVINCE:
         if loc.startswith(p) or (" " + p) in loc:
             return p
+    tokens = re.split(r"[\s,·]+", loc)
     for city, prov in CITY_PROVINCE.items():
-        if city in loc:
+        if any(tok.startswith(city) for tok in tokens):
             return f"{prov} {city}"
     return None
 
