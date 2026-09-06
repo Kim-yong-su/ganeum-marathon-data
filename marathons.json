@@ -1,7 +1,7 @@
 {
- "updated": "2026-08-30",
+ "updated": "2026-09-06",
  "source": "roadrun.co.kr",
- "count": 541,
+ "count": 554,
  "races": [
   {
    "date": "2026-01-01",
@@ -4944,21 +4944,6 @@
   {
    "date": "2026-09-05",
    "dow": "토",
-   "name": "2026 이일선마라톤",
-   "location": "울릉도내 나리분지",
-   "region": "경북 울릉",
-   "distances": [
-    "10km",
-    "4.4km걷기"
-   ],
-   "organizer": "이일선기념사업회",
-   "phone": "010-6353-7227",
-   "registration": "2026년7월14일~2026년8월18일",
-   "homepage": "http://forms.gle/6Y88RJqW6QCZkZoE7"
-  },
-  {
-   "date": "2026-09-05",
-   "dow": "토",
    "name": "제12회 I LOVE 방송대 마라톤",
    "location": "상암동 평화광장",
    "region": null,
@@ -5390,7 +5375,7 @@
    ],
    "organizer": "월드런",
    "phone": "042-638-1080",
-   "registration": "2026년7월15일~2026년8월31일",
+   "registration": "2026년7월15일~2026년9월1일",
    "homepage": "http://mara1080.com/event/0674df45-473c-4182-bed4-d15582fb8c73/guide/overview"
   },
   {
@@ -5590,7 +5575,7 @@
    ],
    "organizer": "문경시 · 문경시 청년센터",
    "phone": "010-2805-9016",
-   "registration": "2026년7월13일~2026년8월31일",
+   "registration": "2026년7월13일~2026년9월11일",
    "homepage": "http://www.omijarun.com"
   },
   {
@@ -5748,7 +5733,7 @@
    ],
    "organizer": "마포구체육회",
    "phone": "042-638-1080",
-   "registration": "2026년6월23일~2026년8월20일",
+   "registration": "2026년6월23일~2026년9월1일",
    "homepage": "http://mara1080.com/event/53b338c6-d38a-47b3-9479-080b00c6113a"
   },
   {
@@ -5853,6 +5838,21 @@
   {
    "date": "2026-10-03",
    "dow": "토",
+   "name": "2026 이일선마라톤",
+   "location": "울릉도내 나리분지",
+   "region": "경북 울릉",
+   "distances": [
+    "10km",
+    "4.4km걷기"
+   ],
+   "organizer": "이일선기념사업회",
+   "phone": "010-6353-7227",
+   "registration": "2026년7월14일~2026년8월18일",
+   "homepage": "http://forms.gle/6Y88RJqW6QCZkZoE7"
+  },
+  {
+   "date": "2026-10-03",
+   "dow": "토",
    "name": "2026 하반기 JUST RUN10 청주",
    "location": "무심천체육공원",
    "region": null,
@@ -5862,7 +5862,7 @@
    ],
    "organizer": "(주)러닝브레이커 · 전국러닝협회",
    "phone": "042-710-2058",
-   "registration": "2026년7월14일~2026년8월31일",
+   "registration": "2026년7월14일~2026년9월7일",
    "homepage": "http://runten.co.kr"
   },
   {
@@ -5894,7 +5894,7 @@
    ],
    "organizer": "완주군/삼삼이즈",
    "phone": "010-7469-1526",
-   "registration": "2026년6월19일~2026년8월31일",
+   "registration": "2026년6월19일~2026년9월31일",
    "homepage": "http://samsamis.com/34"
   },
   {
@@ -5957,7 +5957,7 @@
    ],
    "organizer": "서산시체육회",
    "phone": "042-638-1080",
-   "registration": "2026년3월20일~2026년7월14일",
+   "registration": "2026년3월20일~2026년9월2일",
    "homepage": "http://mara1080.com/event/fcaa0bc8-1489-47c3-8fec-8e5a5c17284e"
   },
   {
@@ -6002,7 +6002,7 @@
    ],
    "organizer": "S-OIL · 한국장애인재활협회",
    "phone": "010-3482-6615",
-   "registration": "2026년8월1일~2026년8월31일",
+   "registration": "2026년8월1일~2026년9월9일",
    "homepage": "http://감동의마라톤.com"
   },
   {
@@ -6347,7 +6347,7 @@
    ],
    "organizer": "성동구체육회 / 성동구육상연맹",
    "phone": "010-7469-1526",
-   "registration": "2026년7월10일~2026년8월30일",
+   "registration": "2026년7월10일~2026년9월30일",
    "homepage": "http://samsamis.com/57"
   },
   {
@@ -6536,6 +6536,22 @@
    "phone": "070-4633-1233",
    "registration": "2026년7월27일~2026년8월7일",
    "homepage": "http://www.pinkrun.kr"
+  },
+  {
+   "date": "2026-10-11",
+   "dow": "일",
+   "name": "2026 당진황금들녘 건강마라톤",
+   "location": "당진 삽교 관광단지 헬기장.",
+   "region": "충남 당진",
+   "distances": [
+    "하프",
+    "10km",
+    "5km"
+   ],
+   "organizer": "당진시스포츠관광협회",
+   "phone": "010-2126-2019",
+   "registration": "2026년8월31일~2026년9월23일",
+   "homepage": "http://당진마라톤대회.com"
   },
   {
    "date": "2026-10-11",
@@ -6931,7 +6947,7 @@
    ],
    "organizer": "청주충북환경운동연합",
    "phone": "043-222-2466",
-   "registration": "2026년7월21일~2026년8월31일",
+   "registration": "2026년9월8일~2026년9월22일",
    "homepage": "http://forms.gle/ga7gKHnRJB7pfLFY6"
   },
   {
@@ -7479,6 +7495,55 @@
   {
    "date": "2026-11-08",
    "dow": "일",
+   "name": "2026 청양군 칠갑마라톤",
+   "location": "청양군 청양목재문화자연사체험관",
+   "region": null,
+   "distances": [
+    "하프",
+    "14km",
+    "7km"
+   ],
+   "organizer": "청양군육상연맹",
+   "phone": "010-4401-2829",
+   "registration": "2026년9월2일~2026년10월15일",
+   "homepage": "http://cymarathon.imweb.me/index?preview_mode=1"
+  },
+  {
+   "date": "2026-11-08",
+   "dow": "일",
+   "name": "2026 경상북도 신도시 마라톤",
+   "location": "경북도청 천년숲 앞",
+   "region": "경북",
+   "distances": [
+    "하프",
+    "10km",
+    "5km"
+   ],
+   "organizer": "경상북도 · 경상북도체육회",
+   "phone": "070-7707-2808",
+   "registration": "2026년9월1일~2026년10월8일",
+   "homepage": "http://1004.tbc.co.kr/"
+  },
+  {
+   "date": "2026-11-08",
+   "dow": "일",
+   "name": "2026 경기화성 생태마라톤",
+   "location": "경기 화성 궁평항 일대",
+   "region": "경기",
+   "distances": [
+    "하프",
+    "10km",
+    "5km",
+    "5km 가족달리기"
+   ],
+   "organizer": "경기신문",
+   "phone": "010-4573-3330",
+   "registration": "2026년9월4일~2026년10월18일",
+   "homepage": "http://kiccrace.com"
+  },
+  {
+   "date": "2026-11-08",
+   "dow": "일",
    "name": "제24회 전국 나주 금성산숲길마라톤",
    "location": "나주시 금성산 일원",
    "region": "전남 나주",
@@ -7544,6 +7609,21 @@
   {
    "date": "2026-11-08",
    "dow": "일",
+   "name": "강남하프마라톤(제17회강남구청장배육상대회)",
+   "location": "강남구 대치유수지 체육공원",
+   "region": null,
+   "distances": [
+    "하프",
+    "10km"
+   ],
+   "organizer": "강남구육상연맹",
+   "phone": "010-6364-4749",
+   "registration": "2026년9월3일~2026년10월23일",
+   "homepage": "http://comport11.oopy.io/gangnamhalfmarathon"
+  },
+  {
+   "date": "2026-11-08",
+   "dow": "일",
    "name": "경주시육상연맹회장배 마라톤대회",
    "location": "경주서천둔치(생활체육광장)",
    "region": "경북 경주",
@@ -7587,6 +7667,21 @@
    "phone": "051-310-4128",
    "registration": "2026년8월24일~2026년10월11일",
    "homepage": "http://ssecorun.co.kr"
+  },
+  {
+   "date": "2026-11-08",
+   "dow": "일",
+   "name": "제3회 자유민주 마라톤대회",
+   "location": "서울시청",
+   "region": "서울",
+   "distances": [
+    "10km",
+    "6.1km"
+   ],
+   "organizer": "민주화운동기념사업회",
+   "phone": "031-575-7243",
+   "registration": "2026년9월4일~2026년9월30일",
+   "homepage": "http://www.610run.kr"
   },
   {
    "date": "2026-11-08",
@@ -7776,6 +7871,52 @@
   {
    "date": "2026-11-15",
    "dow": "일",
+   "name": "2026 FILA RUN & ESPRESSO",
+   "location": "상암 월드컵공원 평화광장",
+   "region": null,
+   "distances": [
+    "10km"
+   ],
+   "organizer": "휠라코리아",
+   "phone": "02-334-6274",
+   "registration": "2026년8월31일~2026년9월10일",
+   "homepage": "http://www.fila.co.kr/pages/fila-run-espresso-10k-seoul"
+  },
+  {
+   "date": "2026-11-15",
+   "dow": "일",
+   "name": "2026 손기정평화마라톤",
+   "location": "파주 임진각",
+   "region": "경기 파주",
+   "distances": [
+    "풀",
+    "하프",
+    "10km",
+    "6km코스"
+   ],
+   "organizer": "손기정기념재단",
+   "phone": "02-364-1936",
+   "registration": "2026년8월9일~2026년9월14일",
+   "homepage": "http://sonkeechungrun.com"
+  },
+  {
+   "date": "2026-11-15",
+   "dow": "일",
+   "name": "제12회 창원특례시장배 광려천마라톤",
+   "location": "창원시 광려천수변공원",
+   "region": "경남 창원",
+   "distances": [
+    "하프",
+    "10km"
+   ],
+   "organizer": "창원시육상연맹",
+   "phone": "070-4443-4392",
+   "registration": "2026년9월1일~2026년9월15일",
+   "homepage": "http://www.cwaaf.kr/bbs/board.php?bo_table=rally≀_id=3"
+  },
+  {
+   "date": "2026-11-15",
+   "dow": "일",
    "name": "2026 나눔레이스 인 용인",
    "location": "세리박위드용인",
    "region": null,
@@ -7803,6 +7944,20 @@
    "phone": "00-1522-4897",
    "registration": "2026년7월20일~2026년9월15일",
    "homepage": "http://kjmarathon.com"
+  },
+  {
+   "date": "2026-11-15",
+   "dow": "일",
+   "name": "26회 창원통일마라톤",
+   "location": "창원종합운동장 보조경기장",
+   "region": "경남 창원",
+   "distances": [
+    "5km"
+   ],
+   "organizer": "창원통일마라톤대회조직위원회",
+   "phone": "055-285-6158",
+   "registration": "2026년9월14일~2026년10월23일",
+   "homepage": "http://www.tongilmarathon.kr"
   },
   {
    "date": "2026-11-15",
@@ -8119,6 +8274,22 @@
    "homepage": "http://www.djrun.kr/"
   },
   {
+   "date": "2026-11-22",
+   "dow": "일",
+   "name": "2026 무주반딧불평화마라톤",
+   "location": "무주 등나무운동장",
+   "region": null,
+   "distances": [
+    "하프",
+    "10km",
+    "5km"
+   ],
+   "organizer": "무주마라톤협회/평화마라톤조직위",
+   "phone": "010-7469-1526",
+   "registration": "2026년9월1일~2026년10월28일",
+   "homepage": "http://mujumarathon.com"
+  },
+  {
    "date": "2026-11-28",
    "dow": "토",
    "name": "2026 평화런",
@@ -8248,6 +8419,20 @@
   {
    "date": "2026-12-05",
    "dow": "토",
+   "name": "사바스티안 사웨 초청기념 월드레코드 마라톤축제",
+   "location": "금산세계인삼엑스포광장",
+   "region": "충남 금산",
+   "distances": [
+    "14km"
+   ],
+   "organizer": "전국마라톤협회",
+   "phone": "042- 638-1080",
+   "registration": "2026년8월31일~2026년9월20일",
+   "homepage": "http://mara1080.com/event/ccf77de8-1b14-4170-afcb-c2eeaee1a78d/guide/overview"
+  },
+  {
+   "date": "2026-12-05",
+   "dow": "토",
    "name": "2026 하남 미사 호수 에너지런",
    "location": "하남미사경정공원",
    "region": "경기 하남",
@@ -8277,19 +8462,20 @@
    "homepage": "http://www.hangangmarathon.kr/"
   },
   {
-   "date": "2026-12-05",
-   "dow": "토",
-   "name": "2026 전국마라톤협회 금산 골드런 마라톤",
-   "location": "금산 엑스포 주차장",
-   "region": "충남 금산",
+   "date": "2026-12-06",
+   "dow": "일",
+   "name": "제20회 양산전국하프마라톤",
+   "location": "양산종합운동장",
+   "region": "경남 양산",
    "distances": [
-    "5km",
-    "12km"
+    "하프",
+    "10km",
+    "5km"
    ],
-   "organizer": "전국마라톤협회",
-   "phone": "042-638-1080",
-   "registration": "2026년7월2일~2026년9월1일",
-   "homepage": "http://mara1080.com/event/df4b4e7d-4fbc-4843-858c-f15c032e92cb"
+   "organizer": "양산시체육회 · 양산육상연맹",
+   "phone": "051-867-0517",
+   "registration": "2026년10월1일~2026년10월20일",
+   "homepage": "http://ysmarathon.kr"
   },
   {
    "date": "2026-12-06",
@@ -8338,6 +8524,22 @@
    "homepage": "http://gibukidsrun.kr"
   },
   {
+   "date": "2026-12-12",
+   "dow": "토",
+   "name": "제3회 긍정의힘 마라톤",
+   "location": "신정교 하부 영롱이 억새구장",
+   "region": null,
+   "distances": [
+    "하프",
+    "10km",
+    "5km"
+   ],
+   "organizer": "(사)한국유튜브방송협회",
+   "phone": "02-336-1588",
+   "registration": "2026년8월30일~2026년12월6일",
+   "homepage": "http://www.powerrun.kr/"
+  },
+  {
    "date": "2026-12-13",
    "dow": "일",
    "name": "제5회 밤섬 마라톤",
@@ -8367,7 +8569,7 @@
    ],
    "organizer": "진주시육상연맹",
    "phone": "010-3931-1356",
-   "registration": "2026년10월22일~2026년11월16일",
+   "registration": "2026년9월14일~2026년9월21일",
    "homepage": "http://www.jinma.co.kr"
   },
   {
