@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-04",
+ "updated": "2026-10-11",
  "source": "roadrun.co.kr",
- "count": 592,
+ "count": 602,
  "races": [
   {
    "date": "2026-01-01",
@@ -6170,6 +6170,21 @@
   {
    "date": "2026-10-09",
    "dow": "금",
+   "name": "제11회 수퍼블루마라톤",
+   "location": "상암동 평화의 광장",
+   "region": null,
+   "distances": [
+    "10km",
+    "5km"
+   ],
+   "organizer": "스페셜올림픽 조직위",
+   "phone": "02-312-1998",
+   "registration": "2026년7월8일~2026년9월10일",
+   "homepage": "http://www.superbluemarathon.kr/"
+  },
+  {
+   "date": "2026-10-09",
+   "dow": "금",
    "name": "2026 한글런",
    "location": "세종중앙공원 도시축제마당",
    "region": "세종",
@@ -6509,7 +6524,7 @@
   {
    "date": "2026-10-11",
    "dow": "일",
-   "name": "제6회 영등포구청장배 육상대회",
+   "name": "제6회 영등포구청장배 육상대회 (마감)",
    "location": "신정교하부육상트랙구장",
    "region": null,
    "distances": [
@@ -6882,7 +6897,7 @@
    ],
    "organizer": "중랑구육상연맹",
    "phone": "02-3285-5556",
-   "registration": "2026년8월5일~2026년10월7일",
+   "registration": "2026년8월5일~2026년10월11일",
    "homepage": "http://www.jnrun.co.kr"
   },
   {
@@ -7315,7 +7330,7 @@
     "5km",
     "8.15km"
    ],
-   "organizer": "국민건강진흥원/인천광역시걷기협",
+   "organizer": "인천광역시걷기협",
    "phone": "070-4098-1114",
    "registration": "2026년9월1일~2026년10월20일",
    "homepage": "http://icnr.kr"
@@ -7363,7 +7378,7 @@
    ],
    "organizer": "(주)러닝브레이커 · 전국러닝협회",
    "phone": "042-710-2058",
-   "registration": "2026년8월11일~2026년9월25일",
+   "registration": "2026년8월11일~2026년10월25일",
    "homepage": "http://runten.co.kr"
   },
   {
@@ -7409,7 +7424,7 @@
    ],
    "organizer": "주식회사 무브네이션",
    "phone": "051-867-0516",
-   "registration": "2026년8월20일~2026년9월20일",
+   "registration": "2026년8월20일~2026년10월31일",
    "homepage": "http://taejongdaezombie.com"
   },
   {
@@ -7625,7 +7640,7 @@
    ],
    "organizer": "굿네이버스충청권역 · 국립세종수목원",
    "phone": "041-575-9601",
-   "registration": "2026년9월7일~2026년10월7일",
+   "registration": "2026년9월7일~2026년10월18일",
    "homepage": "http://eggrun2026.imweb.me"
   },
   {
@@ -7640,7 +7655,7 @@
    ],
    "organizer": "(주)러닝브레이커 · 전국러닝협회",
    "phone": "042-710-2058",
-   "registration": "2026년9월2일~2026년10월10일",
+   "registration": "2026년9월2일~2026년10월20일",
    "homepage": "http://runten.co.kr"
   },
   {
@@ -7760,7 +7775,7 @@
    ],
    "organizer": "부여군마라톤연합회",
    "phone": "042-638-1080",
-   "registration": "2026년6월30일~2026년10월7일",
+   "registration": "2026년6월30일~2026년10월1일",
    "homepage": "http://mara1080.com/event/ffc023fc-7a54-4610-bdd6-2bb9a1028122"
   },
   {
@@ -7807,7 +7822,7 @@
    ],
    "organizer": "청양군육상연맹",
    "phone": "010-4401-2829",
-   "registration": "2026년9월2일~2026년10월15일",
+   "registration": "2026년9월2일~2026년10월25일",
    "homepage": "http://cymarathon.imweb.me/index?preview_mode=1"
   },
   {
@@ -7823,7 +7838,7 @@
    ],
    "organizer": "경상북도 · 경상북도체육회",
    "phone": "070-7707-2808",
-   "registration": "2026년9월1일~2026년10월8일",
+   "registration": "2026년9월1일~2026년10월16일",
    "homepage": "http://1004.tbc.co.kr/"
   },
   {
@@ -8218,6 +8233,54 @@
   {
    "date": "2026-11-15",
    "dow": "일",
+   "name": "2026 연수구청장배 송도 WALK & RUN",
+   "location": "국립인천대학교 송도캠퍼스 정문",
+   "region": "인천",
+   "distances": [
+    "하프",
+    "10km",
+    "5km",
+    "WALK 5km",
+    "WALK 10km"
+   ],
+   "organizer": "인천광역시연수구걷기협회",
+   "phone": "070-4098-1114",
+   "registration": "2026년10월9일~2026년11월8일",
+   "homepage": "http://walknrun.kr"
+  },
+  {
+   "date": "2026-11-15",
+   "dow": "일",
+   "name": "2026 에코나우런",
+   "location": "뚝섬한강공원 수변무대 앞 광장",
+   "region": null,
+   "distances": [
+    "5km"
+   ],
+   "organizer": "에코나우",
+   "phone": "02-556-3012",
+   "registration": "2026년10월1일~2026년11월8일",
+   "homepage": "http://econow.campaignus.me/econow_run"
+  },
+  {
+   "date": "2026-11-15",
+   "dow": "일",
+   "name": "2026 청춘레이스",
+   "location": "성북구 중랑천 체육공원",
+   "region": null,
+   "distances": [
+    "하프",
+    "10km",
+    "5km"
+   ],
+   "organizer": "(사)행복한가게",
+   "phone": "02-877-3335",
+   "registration": "2026년10월8일~2026년11월8일",
+   "homepage": "http://youngrace.kr"
+  },
+  {
+   "date": "2026-11-15",
+   "dow": "일",
    "name": "2026 FILA RUN & ESPRESSO",
    "location": "상암 월드컵공원 평화광장",
    "region": null,
@@ -8243,7 +8306,7 @@
    ],
    "organizer": "손기정기념재단",
    "phone": "02-364-1936",
-   "registration": "2026년8월9일~2026년9월14일",
+   "registration": "2026년8월9일~2026년10월13일",
    "homepage": "http://sonkeechungrun.com"
   },
   {
@@ -8275,6 +8338,21 @@
    "phone": "02-2135-1297",
    "registration": "2026년8월24일~2026년9월6일",
    "homepage": "http://nanumrun.or.kr"
+  },
+  {
+   "date": "2026-11-15",
+   "dow": "일",
+   "name": "2026 영남일보 혁신도시 마라톤",
+   "location": "대구혁신도시 신서중앙공원",
+   "region": "대구",
+   "distances": [
+    "10km",
+    "5km"
+   ],
+   "organizer": "영남일보",
+   "phone": "00-1600-3949",
+   "registration": "2026년10월2일~2026년10월30일",
+   "homepage": "http://inno.ynmarathon.kr"
   },
   {
    "date": "2026-11-15",
@@ -8321,6 +8399,21 @@
    "phone": "064-750-2291",
    "registration": "2026년7월6일~2026년9월11일",
    "homepage": "http://marathon.ihalla.com"
+  },
+  {
+   "date": "2026-11-15",
+   "dow": "일",
+   "name": "우리함께런 with 빗썸나눔",
+   "location": "여의도한강공원 물빛무대앞광장",
+   "region": null,
+   "distances": [
+    "10km",
+    "5km"
+   ],
+   "organizer": "빗썸나눔 & 이투데이",
+   "phone": "070-4350-5663",
+   "registration": "2026년10월6일~2026년10월21일",
+   "homepage": "http://bithumbnanumrun.com"
   },
   {
    "date": "2026-11-15",
@@ -8414,7 +8507,7 @@
    ],
    "organizer": "전국마라톤협회",
    "phone": "042-638-1080",
-   "registration": "2026년5월6일~2026년6월16일",
+   "registration": "2026년5월6일~2026년10월20일",
    "homepage": "http://www.mara1080.com/event/c8dc2c22-a83a-4743-9e34-c884e9809dbb"
   },
   {
@@ -8538,7 +8631,7 @@
    ],
    "organizer": "(주)러닝브레이커 · 전국러닝협회",
    "phone": "042-710-2058",
-   "registration": "2026년9월11일~2026년10월20일",
+   "registration": "2026년9월11일~2026년10월30일",
    "homepage": "http://runten.co.kr"
   },
   {
@@ -8619,6 +8712,20 @@
    "phone": "02-785-1915",
    "registration": "2026년9월1일~2026년10월21일",
    "homepage": "http://gofree.seoul.co.kr/"
+  },
+  {
+   "date": "2026-11-22",
+   "dow": "일",
+   "name": "부산항일학생의거86주년기념 부산시민이어달리기",
+   "location": "부산시내 중앙로구덕운동장~초읍",
+   "region": "부산",
+   "distances": [
+    "이어달리기16키로"
+   ],
+   "organizer": "(사)부산항일학생의거기념사업회",
+   "phone": "070-4406-1123",
+   "registration": "2026년10월13일~2026년11월10일",
+   "homepage": "http://i1123.org"
   },
   {
    "date": "2026-11-22",
@@ -8758,7 +8865,7 @@
    ],
    "organizer": "남원시체육회",
    "phone": "042-638-1080",
-   "registration": "2026년7월7일~2026년10월28일",
+   "registration": "2026년7월7일~2026년10월25일",
    "homepage": "http://mara1080.com/event/c2cec79b-c38a-4832-bf4f-7ecb499cdcd5/guide/overview"
   },
   {
@@ -8860,6 +8967,7 @@
    "location": "여의도공원 문화의마당",
    "region": null,
    "distances": [
+    "하프",
     "10km",
     "5km"
    ],
@@ -8920,6 +9028,21 @@
   {
    "date": "2026-12-05",
    "dow": "토",
+   "name": "2026 허그런(HUG RUN)",
+   "location": "상암 월드컵공원 평화광장",
+   "region": null,
+   "distances": [
+    "10km",
+    "5km"
+   ],
+   "organizer": "동방사회복지회",
+   "phone": "02-332-3997",
+   "registration": "2026년10월6일~2026년11월8일",
+   "homepage": "http://hugrun.kr"
+  },
+  {
+   "date": "2026-12-05",
+   "dow": "토",
    "name": "제4회 가든파이브 라이프 레이스",
    "location": "서울 가든파이브라이프 중앙광장",
    "region": "서울",
@@ -8947,22 +9070,22 @@
    ],
    "organizer": "전국마라톤협회",
    "phone": "042- 638-1080",
-   "registration": "2026년8월31일~2026년9월20일",
+   "registration": "2026년8월31일~2026년11월25일",
    "homepage": "http://mara1080.com/event/df4b4e7d-4fbc-4843-858c-f15c032e92cb"
   },
   {
    "date": "2026-12-05",
    "dow": "토",
-   "name": "2026 하남 미사 호수 에너지런",
+   "name": "2026 하남 미사 대회 취소",
    "location": "하남미사경정공원",
    "region": "경기 하남",
    "distances": [
     "10km",
     "5km"
    ],
-   "organizer": "(사)행복한가게",
-   "phone": "02-888-8875",
-   "registration": "2026년8월3일~2026년11월26일",
+   "organizer": "하남미사",
+   "phone": "02-000-0000",
+   "registration": "2026년8월3일~2026년9월26일",
    "homepage": "http://energyrun.kr"
   },
   {
@@ -9062,6 +9185,23 @@
   {
    "date": "2026-12-12",
    "dow": "토",
+   "name": "2026 연합뉴스 하남 국제 트레일런 페스티벌",
+   "location": "미사경정공원 및 하남시 일대",
+   "region": "경기 하남",
+   "distances": [
+    "10km",
+    "5km",
+    "15km",
+    "28km"
+   ],
+   "organizer": "연합뉴스 · 하남시 · 한국체육대학교",
+   "phone": "033-264-1365",
+   "registration": "2026년10월8일~2026년11월26일",
+   "homepage": "http://yhitf.co.kr"
+  },
+  {
+   "date": "2026-12-12",
+   "dow": "토",
    "name": "2026 소년소녀 가장 돕기 기부런",
    "location": "상암동 평화광장",
    "region": null,
@@ -9106,6 +9246,21 @@
    "phone": "00-1811-7978",
    "registration": "2026년9월14일~2026년11월20일",
    "homepage": "http://www.omrun.co.kr"
+  },
+  {
+   "date": "2026-12-13",
+   "dow": "일",
+   "name": "제2회 일자산TRAL RUNNING",
+   "location": "일자산보훈병원앞",
+   "region": null,
+   "distances": [
+    "8km",
+    "4km"
+   ],
+   "organizer": "(사)한국산악마라톤연맹",
+   "phone": "02-424-2195",
+   "registration": "2026년10월9일~2026년12월9일",
+   "homepage": "http://koreatrail.net"
   },
   {
    "date": "2026-12-13",
