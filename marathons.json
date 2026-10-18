@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-11",
+ "updated": "2026-10-18",
  "source": "roadrun.co.kr",
- "count": 602,
+ "count": 605,
  "races": [
   {
    "date": "2026-01-01",
@@ -7162,20 +7162,6 @@
   {
    "date": "2026-10-24",
    "dow": "토",
-   "name": "서울 대모-구룡산트레일런",
-   "location": "수서역6번출구",
-   "region": null,
-   "distances": [
-    "14.6km"
-   ],
-   "organizer": "파브코리아",
-   "phone": "010-3526-9120",
-   "registration": "2026년8월15일~2026년10월23일",
-   "homepage": "http://www.mtrailrun.kr/"
-  },
-  {
-   "date": "2026-10-24",
-   "dow": "토",
    "name": "2026 제3회 감성런",
    "location": "신정교하부육상트랙구장",
    "region": null,
@@ -7378,7 +7364,7 @@
    ],
    "organizer": "(주)러닝브레이커 · 전국러닝협회",
    "phone": "042-710-2058",
-   "registration": "2026년8월11일~2026년10월25일",
+   "registration": "2026년8월11일~2026년10월18일",
    "homepage": "http://runten.co.kr"
   },
   {
@@ -7758,7 +7744,7 @@
    ],
    "organizer": "한국해운신문 · 부산항발전협의회",
    "phone": "031-821-9949",
-   "registration": "2026년8월7일~2026년10월16일",
+   "registration": "2026년8월7일~2026년10월13일",
    "homepage": "http://runfesta.co.kr"
   },
   {
@@ -7808,6 +7794,23 @@
    "phone": "054-331-6029",
    "registration": "2026년9월1일~2026년9월30일",
    "homepage": "http://runyc.kr"
+  },
+  {
+   "date": "2026-11-08",
+   "dow": "일",
+   "name": "2026전국 체육회장배 안산 RUN 마라톤",
+   "location": "안산 호수공원(중앙무대)인근",
+   "region": null,
+   "distances": [
+    "10km",
+    "5km",
+    "3km(학생부)",
+    "5인1조(10km)"
+   ],
+   "organizer": "안산시체육회/안산시육상연맹",
+   "phone": "031-339-6338",
+   "registration": "2026년10월14일~2026년10월24일",
+   "homepage": "http://aaaf.koreashout.com/bbs/board.php?bo_table=cp_list≀_id=60"
   },
   {
    "date": "2026-11-08",
@@ -7903,7 +7906,7 @@
    ],
    "organizer": "해남군육상연맹",
    "phone": "00-1600-3949",
-   "registration": "2026년8월13일~2026년10월14일",
+   "registration": "2026년8월13일~2026년10월19일",
    "homepage": "http://haenammarathon.co.kr"
   },
   {
@@ -7997,7 +8000,7 @@
    ],
    "organizer": "사상구청 · 사상구체육회",
    "phone": "051-310-4128",
-   "registration": "2026년8월24일~2026년10월11일",
+   "registration": "2026년8월24일~2026년11월8일",
    "homepage": "http://ssecorun.co.kr"
   },
   {
@@ -8266,7 +8269,7 @@
    "date": "2026-11-15",
    "dow": "일",
    "name": "2026 청춘레이스",
-   "location": "성북구 중랑천 체육공원",
+   "location": "우이천 다목적광장",
    "region": null,
    "distances": [
     "하프",
@@ -8306,7 +8309,7 @@
    ],
    "organizer": "손기정기념재단",
    "phone": "02-364-1936",
-   "registration": "2026년8월9일~2026년10월13일",
+   "registration": "2026년8월9일~2026년10월20일",
    "homepage": "http://sonkeechungrun.com"
   },
   {
@@ -8332,6 +8335,7 @@
    "region": null,
    "distances": [
     "10km",
+    "5km",
     "15km"
    ],
    "organizer": "나눔레이스조직위원회",
@@ -8522,7 +8526,7 @@
    ],
    "organizer": "서울자주통일평화연대",
    "phone": "010-3408-8150",
-   "registration": "2026년7월8일~2026년10월16일",
+   "registration": "2026년7월8일~2026년10월26일",
    "homepage": "http://seoultongilrun.org"
   },
   {
@@ -8544,7 +8548,7 @@
   {
    "date": "2026-11-15",
    "dow": "일",
-   "name": "제3회 무등산더블하트국제트레일런대회",
+   "name": "제3회 무등산더블하트국제트레일런대회 추가접수",
    "location": "조선대학교",
    "region": null,
    "distances": [
@@ -8553,7 +8557,7 @@
    ],
    "organizer": "한국백혈병소아암협회/시유케이컴",
    "phone": "00-1899-8610",
-   "registration": "2026년5월4일~2026년10월15일",
+   "registration": "2026년5월4일~2026년10월31일",
    "homepage": "http://www.cuk-sports.com/"
   },
   {
@@ -8716,6 +8720,22 @@
   {
    "date": "2026-11-22",
    "dow": "일",
+   "name": "제19회 대구광역시장기 생활체육 육상대회",
+   "location": "대구스타디움",
+   "region": "대구",
+   "distances": [
+    "10km",
+    "100m",
+    "200m"
+   ],
+   "organizer": "대구광역시체육회",
+   "phone": "010-3503-4558",
+   "registration": "2026년10월15일~2026년11월5일",
+   "homepage": "http://www.daegutf.co.kr/front/board/view.php?code=game&tab=%EB%8C%80%EA%B5%AC∣=0003%2C0014&no=722"
+  },
+  {
+   "date": "2026-11-22",
+   "dow": "일",
    "name": "부산항일학생의거86주년기념 부산시민이어달리기",
    "location": "부산시내 중앙로구덕운동장~초읍",
    "region": "부산",
@@ -8835,6 +8855,21 @@
    "phone": "02-2135-1297",
    "registration": "2026년9월9일~2026년9월30일",
    "homepage": "http://krun.or.kr"
+  },
+  {
+   "date": "2026-11-28",
+   "dow": "토",
+   "name": "2026 착한서구 공부방 기부앤런",
+   "location": "영산강 자전거길(극락교~서창교",
+   "region": null,
+   "distances": [
+    "10km",
+    "5km"
+   ],
+   "organizer": "전남광주통합특별시 서구",
+   "phone": "063-535-0495",
+   "registration": "2026년10월15일~2026년11월17일",
+   "homepage": "http://기부앤런.kr"
   },
   {
    "date": "2026-11-28",
@@ -9076,21 +9111,6 @@
   {
    "date": "2026-12-05",
    "dow": "토",
-   "name": "2026 하남 미사 대회 취소",
-   "location": "하남미사경정공원",
-   "region": "경기 하남",
-   "distances": [
-    "10km",
-    "5km"
-   ],
-   "organizer": "하남미사",
-   "phone": "02-000-0000",
-   "registration": "2026년8월3일~2026년9월26일",
-   "homepage": "http://energyrun.kr"
-  },
-  {
-   "date": "2026-12-05",
-   "dow": "토",
    "name": "제23회 한강시민마라톤",
    "location": "여의도 물빛무대 앞 광장",
    "region": null,
@@ -9101,7 +9121,7 @@
    ],
    "organizer": "(사)대한생활체육회",
    "phone": "00-1644-4219",
-   "registration": "2026년8월1일~2026년11월10일",
+   "registration": "2026년8월1일~2026년11월16일",
    "homepage": "http://www.hangangmarathon.kr/"
   },
   {
@@ -9120,6 +9140,22 @@
    "phone": "010-4654-0495",
    "registration": "2026년9월22일~2026년11월22일",
    "homepage": "http://love.myrunup.kr"
+  },
+  {
+   "date": "2026-12-06",
+   "dow": "일",
+   "name": "2026 화순고인돌마라톤",
+   "location": "화순공설운동장",
+   "region": null,
+   "distances": [
+    "하프",
+    "10km",
+    "5km"
+   ],
+   "organizer": "화순군체육회 · 화순군육상연맹",
+   "phone": "061-375-1201",
+   "registration": "2026년10월20일~2026년11월10일",
+   "homepage": "http://xn--299a84k68cg1cr8pi6h5qsd0i.kr/index.asp"
   },
   {
    "date": "2026-12-06",
@@ -9181,6 +9217,21 @@
    "phone": "02-2632-0912",
    "registration": "2026년9월9일~2026년11월8일",
    "homepage": "http://www.youthrun.co.kr"
+  },
+  {
+   "date": "2026-12-06",
+   "dow": "일",
+   "name": "대전보문산트레일런",
+   "location": "수서역6번출구",
+   "region": null,
+   "distances": [
+    "15km",
+    "10km"
+   ],
+   "organizer": "파브코리아/명품트레일",
+   "phone": "010-3526-9120",
+   "registration": "2026년8월15일~2026년12월5일",
+   "homepage": "http://www.mtrailrun.kr/"
   },
   {
    "date": "2026-12-12",
