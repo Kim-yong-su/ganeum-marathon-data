@@ -1,7 +1,7 @@
 {
- "updated": "2026-10-18",
+ "updated": "2026-10-25",
  "source": "roadrun.co.kr",
- "count": 605,
+ "count": 608,
  "races": [
   {
    "date": "2026-01-01",
@@ -7318,7 +7318,7 @@
    ],
    "organizer": "인천광역시걷기협",
    "phone": "070-4098-1114",
-   "registration": "2026년9월1일~2026년10월20일",
+   "registration": "2026년9월1일~2026년10월30일",
    "homepage": "http://icnr.kr"
   },
   {
@@ -7347,9 +7347,9 @@
     "5km",
     "2.3km"
    ],
-   "organizer": "원유니버스",
+   "organizer": "원유니버스스튜디오",
    "phone": "02-338-0344",
-   "registration": "2026년9월22일~2026년10월12일",
+   "registration": "2026년9월22일~2026년10월26일",
    "homepage": "http://marvelrunkorea2026.com/"
   },
   {
@@ -7456,7 +7456,7 @@
    ],
    "organizer": "법률신문",
    "phone": "010-9573-7669",
-   "registration": "2026년9월21일~2026년10월14일",
+   "registration": "2026년9월21일~2026년10월21일",
    "homepage": "http://justicerun.kr/"
   },
   {
@@ -7641,7 +7641,7 @@
    ],
    "organizer": "(주)러닝브레이커 · 전국러닝협회",
    "phone": "042-710-2058",
-   "registration": "2026년9월2일~2026년10월20일",
+   "registration": "2026년9월2일~2026년10월25일",
    "homepage": "http://runten.co.kr"
   },
   {
@@ -7841,7 +7841,7 @@
    ],
    "organizer": "경상북도 · 경상북도체육회",
    "phone": "070-7707-2808",
-   "registration": "2026년9월1일~2026년10월16일",
+   "registration": "2026년9월1일~2026년10월25일",
    "homepage": "http://1004.tbc.co.kr/"
   },
   {
@@ -8097,6 +8097,20 @@
   {
    "date": "2026-11-08",
    "dow": "일",
+   "name": "83타워 업힐런 챌린지",
+   "location": "이월드",
+   "region": null,
+   "distances": [
+    "1.8Km+77층 계단"
+   ],
+   "organizer": "이월드 / 페스티벌잼",
+   "phone": "070-7549-8112",
+   "registration": "2026년10월19일~2026년10월31일",
+   "homepage": "http://eworld83toweruphillrun.lovable.app/"
+  },
+  {
+   "date": "2026-11-08",
+   "dow": "일",
    "name": "제5회 거제시체육회장배 거제앵산트레일레이스",
    "location": "경남 거제시 하청면스포츠타운",
    "region": "경남",
@@ -8309,7 +8323,7 @@
    ],
    "organizer": "손기정기념재단",
    "phone": "02-364-1936",
-   "registration": "2026년8월9일~2026년10월20일",
+   "registration": "2026년8월9일~2026년10월27일",
    "homepage": "http://sonkeechungrun.com"
   },
   {
@@ -8635,7 +8649,7 @@
    ],
    "organizer": "(주)러닝브레이커 · 전국러닝협회",
    "phone": "042-710-2058",
-   "registration": "2026년9월11일~2026년10월30일",
+   "registration": "2026년9월11일~2026년11월8일",
    "homepage": "http://runten.co.kr"
   },
   {
@@ -8666,7 +8680,7 @@
    ],
    "organizer": "주식회사 락앤런",
    "phone": "063-353-2025",
-   "registration": "2026년8월10일~2026년10월15일",
+   "registration": "2026년8월10일~2026년11월15일",
    "homepage": "http://rocknrun.kr"
   },
   {
@@ -9299,6 +9313,21 @@
    "homepage": "http://www.omrun.co.kr"
   },
   {
+   "date": "2026-12-12",
+   "dow": "토",
+   "name": "2026 성남 헤리티지 런",
+   "location": "탄천종합운동장",
+   "region": null,
+   "distances": [
+    "10km",
+    "5km"
+   ],
+   "organizer": "채널A",
+   "phone": "031-821-9940",
+   "registration": "2026년10월21일~2026년11월20일",
+   "homepage": "http://charun.co.kr"
+  },
+  {
    "date": "2026-12-13",
    "dow": "일",
    "name": "제2회 일자산TRAL RUNNING",
@@ -9326,7 +9355,7 @@
    ],
    "organizer": "(사)대한생활체육연맹",
    "phone": "02-569-5551",
-   "registration": "2026년8월7일~2026년11월22일",
+   "registration": "2026년8월7일~2026년12월6일",
    "homepage": "http://bamseom.com/"
   },
   {
@@ -9345,6 +9374,22 @@
    "phone": "010-5521-3720",
    "registration": "2026년9월14일~2026년9월14일",
    "homepage": "http://www.jinma.co.kr"
+  },
+  {
+   "date": "2026-12-13",
+   "dow": "일",
+   "name": "2026 시즌마감마라톤대회",
+   "location": "인천아사이드 경기장 북측 광장",
+   "region": "인천",
+   "distances": [
+    "하프",
+    "10km",
+    "5km"
+   ],
+   "organizer": "기호일보 · 로드스포츠",
+   "phone": "00-1600-3962",
+   "registration": "2026년10월20일~2026년11월23일",
+   "homepage": "http://42195race.com/"
   },
   {
    "date": "2026-12-19",
@@ -9396,7 +9441,7 @@
   {
    "date": "2026-12-28",
    "dow": "월",
-   "name": "2026 한강런 준비중",
+   "name": "2026 한강런 (대회취소)",
    "location": "안양천다목적광장",
    "region": "경기 안양",
    "distances": [
@@ -9405,7 +9450,7 @@
    ],
    "organizer": "한강런(주)",
    "phone": "02-888-8805",
-   "registration": "2026년9월20일~2026년12월12일",
+   "registration": "2026년9월20일~2026년10월15일",
    "homepage": "http://hgrun.kr"
   }
  ]
