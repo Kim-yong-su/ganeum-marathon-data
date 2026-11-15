@@ -51,8 +51,9 @@ def fix_distances(tags):
     return out
 
 
-def transform(rows):
+def transform(rows, years=None):
     races = []
+    seen = set()
     for r in rows:
         name = (r.get("event_name") or "").strip()
         if not name:
@@ -61,6 +62,9 @@ def transform(rows):
             date = f"{int(r['year'])}-{int(r['month']):02d}-{int(r['day']):02d}"
         except (KeyError, ValueError, TypeError):
             continue
+        if (date, name) in seen:
+            continue
+        seen.add((date, name))
         org = r.get("organizer")
         org = " · ".join(org) if isinstance(org, list) else (org or "")
         loc = r.get("location") or ""
@@ -77,25 +81,71 @@ def transform(rows):
             "homepage": r.get("homepage") or "",
         })
     races.sort(key=lambda x: x["date"])
-    return {
+    out = {
         "updated": datetime.date.today().isoformat(),
         "source": "roadrun.co.kr",
         "count": len(races),
         "races": races,
     }
+    if years:
+        out["years"] = [int(y) for y in years]
+    return out
+
+
+def default_years(today):
+    # 올해만 받으면 연말에 다음 해 대회가 하나도 없어 앱 일정 탭이 비어 간다(2026-11: 마지막 대회 12/28).
+    return [str(today.year), str(today.year + 1)]
+
+
+def upcoming_count(races, today):
+    iso = today.isoformat()
+    return sum(1 for r in races if r.get("date", "") >= iso)
+
+
+def check_sane(new, previous, today):
+    """덮어쓰기 전 검사. 문제가 있으면 이유 문자열, 없으면 None.
+
+    수집이 '성공'해도 원본 구조가 바뀌면 빈 목록이 조용히 올라간다. 앱은 이 파일을 그대로 보여 주므로
+    앞으로 남은 대회가 0건이거나 직전 파일보다 절반 아래로 줄면 저장하지 않고 실패로 끝낸다.
+    """
+    upcoming = upcoming_count(new["races"], today)
+    if upcoming == 0:
+        return "오늘 이후 대회가 0건"
+    if previous:
+        before = upcoming_count(previous.get("races", []), today)
+        if before >= 20 and upcoming < before * 0.5:
+            return f"오늘 이후 대회가 {before}건에서 {upcoming}건으로 절반 아래로 줄어듦"
+    return None
 
 
 def main():
-    if len(sys.argv) > 2 and sys.argv[1] == "--raw":
-        rows = json.load(open(sys.argv[2], encoding="utf-8"))
+    args = [a for a in sys.argv[1:] if a != "--force"]
+    force = "--force" in sys.argv[1:]
+    today = datetime.date.today()
+    if len(args) > 1 and args[0] == "--raw":
+        rows = json.load(open(args[1], encoding="utf-8"))
+        years = None
     else:
         import kr_marathon_schedule as k
-        year = sys.argv[1] if len(sys.argv) > 1 else str(datetime.date.today().year)
-        rows = k.get_marathons(year, fetch_details=True)
-    out = transform(rows)
+        years = args or default_years(today)
+        rows = []
+        for year in years:
+            got = k.get_marathons(year, fetch_details=True)
+            print(f"{year}: {len(got)} rows")
+            rows.extend(got)
+    out = transform(rows, years)
+    try:
+        previous = json.load(open("marathons.json", encoding="utf-8"))
+    except (OSError, ValueError):
+        previous = None
+    problem = check_sane(out, previous, today)
+    if problem and not force:
+        print(f"NOT WRITTEN: {problem}. 원본 사이트나 수집 라이브러리를 확인하세요(무시하려면 --force).")
+        sys.exit(1)
     with open("marathons.json", "w", encoding="utf-8") as f:
         json.dump(out, f, ensure_ascii=False, indent=1)
-    print(f"wrote marathons.json: {out['count']} races, region set on "
+    print(f"wrote marathons.json: {out['count']} races "
+          f"({upcoming_count(out['races'], today)} upcoming), region set on "
           f"{sum(1 for r in out['races'] if r['region'])}")
 
 
