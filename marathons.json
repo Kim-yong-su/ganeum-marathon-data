@@ -1,7 +1,7 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-22",
  "source": "roadrun.co.kr",
- "count": 637,
+ "count": 652,
  "races": [
   {
    "date": "2026-01-01",
@@ -8750,6 +8750,24 @@
   {
    "date": "2026-11-22",
    "dow": "일",
+   "name": "마르 백야드울트라6",
+   "location": "제주시 월각로 783",
+   "region": "제주",
+   "distances": [
+    "풀",
+    "하프",
+    "10km",
+    "5km",
+    "6.704km 루프"
+   ],
+   "organizer": "(주)마르어드벤처",
+   "phone": "010-8691-2251",
+   "registration": "2026년11월1일~2026년11월20일",
+   "homepage": "http://events.maar-adv.com/backyardultra"
+  },
+  {
+   "date": "2026-11-22",
+   "dow": "일",
    "name": "부산항일학생의거86주년기념 부산시민이어달리기",
    "location": "부산시내 중앙로구덕운동장~초읍",
    "region": "부산",
@@ -8805,7 +8823,7 @@
    ],
    "organizer": "세계일보 · (사)한국마라톤연맹",
    "phone": "02-2647-4488",
-   "registration": "2026년8월20일~2026년11월16일",
+   "registration": "2026년8월20일~2026년11월15일",
    "homepage": "http://ssrun.kr/"
   },
   {
@@ -8961,7 +8979,7 @@
    ],
    "organizer": "서울육상연맹",
    "phone": "00-1600-4525",
-   "registration": "2026년9월22일~2026년11월15일",
+   "registration": "2026년9월22일~2026년11월29일",
    "homepage": "http://seoulloverun.com"
   },
   {
@@ -8998,7 +9016,7 @@
    "date": "2026-11-29",
    "dow": "일",
    "name": "가야왕도 김해 전국어울림 마라톤대회",
-   "location": "롯데워터파크 제3주차장",
+   "location": "가동교차로 (김해시 한림면 가동리)",
    "region": null,
    "distances": [
     "하프",
@@ -9014,7 +9032,7 @@
    "date": "2026-11-29",
    "dow": "일",
    "name": "제14회 안중근 평화 마라톤",
-   "location": "여의도공원 문화의마당",
+   "location": "신정교하부 육상트랙구장",
    "region": null,
    "distances": [
     "하프",
@@ -9141,6 +9159,21 @@
   {
    "date": "2026-12-05",
    "dow": "토",
+   "name": "2026 유관순 평화 마라톤",
+   "location": "천안 독립기념관 겨레의 큰 마",
+   "region": "충남 천안",
+   "distances": [
+    "10km",
+    "5km"
+   ],
+   "organizer": "천안시체육회 · 대전일보사",
+   "phone": "042-335-2543",
+   "registration": "2026년11월17일~2026년11월23일",
+   "homepage": "http://ryugwansun.co.kr/"
+  },
+  {
+   "date": "2026-12-05",
+   "dow": "토",
    "name": "제23회 한강시민마라톤",
    "location": "여의도 물빛무대 앞 광장",
    "region": null,
@@ -9260,7 +9293,7 @@
    ],
    "organizer": "런앤런",
    "phone": "02-2632-0912",
-   "registration": "2026년9월9일~2026년11월22일",
+   "registration": "2026년9월9일~2026년12월1일",
    "homepage": "http://www.youthrun.co.kr"
   },
   {
@@ -9275,7 +9308,7 @@
    ],
    "organizer": "평창관광문화재단",
    "phone": "033-832-7001",
-   "registration": "2026년10월24일~2026년11월20일",
+   "registration": "2026년10월24일~2026년12월4일",
    "homepage": "http://order.doortoout.com/12/8/78"
   },
   {
@@ -9514,6 +9547,20 @@
   {
    "date": "2027-01-10",
    "dow": "일",
+   "name": "제19회 제천의림지삼한초록길 알몸마라톤",
+   "location": "제천 의림지박물관 광장",
+   "region": "충북 제천",
+   "distances": [
+    "7km"
+   ],
+   "organizer": "제천시육상연맹",
+   "phone": "010-6204-4573",
+   "registration": "2026년11월14일~2026년12월31일",
+   "homepage": "http://jcaaf.com/"
+  },
+  {
+   "date": "2027-01-10",
+   "dow": "일",
    "name": "2027 전마협 새해 동계 마라톤",
    "location": "금산 인삼 엑스포광장 주차장",
    "region": "충남 금산",
@@ -9561,6 +9608,21 @@
    "homepage": "http://polarbearrun.kr"
   },
   {
+   "date": "2027-01-31",
+   "dow": "일",
+   "name": "2027 평창 대관령 알몸마라톤",
+   "location": "대관령눈꽃축제장",
+   "region": null,
+   "distances": [
+    "10km",
+    "5km"
+   ],
+   "organizer": "전국마라톤협회",
+   "phone": "042-638-1080",
+   "registration": "2026년11월19일~2027년1월31일",
+   "homepage": "http://mara1080.com/event/d243ad5f-f193-4e72-9c7e-c46969437cf8"
+  },
+  {
    "date": "2027-02-13",
    "dow": "토",
    "name": "2027 전마협 고흥 누리호 마라톤대회",
@@ -9573,7 +9635,7 @@
    "organizer": "전국마라톤협회",
    "phone": "042- 638-1080",
    "registration": "2026년10월16일~2027년12월1일",
-   "homepage": "http://mara1080.com/event/f3c362bc-532f-4f3c-bc21-76d3023bfb3a"
+   "homepage": "http://mara1080.com/event/c0c0a4a4-eb54-4f93-a0b8-f21d9b2bd168"
   },
   {
    "date": "2027-02-20",
@@ -9660,6 +9722,56 @@
   {
    "date": "2027-02-28",
    "dow": "일",
+   "name": "2027 정읍동학마라톤",
+   "location": "정읍 체육트레이닝센터(운동장)",
+   "region": "전북 정읍",
+   "distances": [
+    "풀",
+    "10km",
+    "5km",
+    "30km"
+   ],
+   "organizer": "정읍시육상연맹",
+   "phone": "063-535-0495",
+   "registration": "2026년11월17일~2027년1월20일",
+   "homepage": "http://jp.myrunup.kr"
+  },
+  {
+   "date": "2027-02-28",
+   "dow": "일",
+   "name": "제11회 산불조심한국 서울마라톤",
+   "location": "수서 광평교",
+   "region": null,
+   "distances": [
+    "풀",
+    "하프",
+    "10km",
+    "6km"
+   ],
+   "organizer": "한국트레일러너연맹",
+   "phone": "02-424-2195",
+   "registration": "2026년11월8일~2027년1월31일",
+   "homepage": "http://www.nobulrun.com/"
+  },
+  {
+   "date": "2027-02-28",
+   "dow": "일",
+   "name": "2027 경기수원국제하프마라톤",
+   "location": "수원종합운동장",
+   "region": "경기 수원",
+   "distances": [
+    "하프",
+    "10km",
+    "5km"
+   ],
+   "organizer": "경기신문",
+   "phone": "031-575-7243",
+   "registration": "2026년11월20일~2026년11월30일",
+   "homepage": "http://ggimarathon.com"
+  },
+  {
+   "date": "2027-02-28",
+   "dow": "일",
    "name": "2027 대구마라톤",
    "location": "국채보상운동기념공원",
    "region": null,
@@ -9686,7 +9798,7 @@
    ],
    "organizer": "(주)머니투데이",
    "phone": "042- 638-1080",
-   "registration": "2026년10월6일~2026년10월12일",
+   "registration": "2026년10월6일~2027년3월1일",
    "homepage": "http://mara1080.com/event/83acaaf1-1e30-411a-ac71-5e909ba1f7d9"
   },
   {
@@ -9737,6 +9849,37 @@
    "homepage": "http://mara1080.com/event/6397382b-be8d-4aee-b724-68f9fad03f29"
   },
   {
+   "date": "2027-03-14",
+   "dow": "일",
+   "name": "2027 부산다대포마라톤",
+   "location": "부산 다대포해변공원 도로 앞",
+   "region": "부산",
+   "distances": [
+    "하프",
+    "10km",
+    "5km"
+   ],
+   "organizer": "부산다대포마라톤조직위",
+   "phone": "051-710-2030",
+   "registration": "2026년11월17일~2026년12월5일",
+   "homepage": "http://dadaeporun.kr"
+  },
+  {
+   "date": "2027-03-14",
+   "dow": "일",
+   "name": "제28회 이천 도자기 마라톤",
+   "location": "이천종합운동장",
+   "region": "경기 이천",
+   "distances": [
+    "하프",
+    "10km"
+   ],
+   "organizer": "이천시체육회",
+   "phone": "042-638-1080",
+   "registration": "2026년11월23일~2027년3월14일",
+   "homepage": "http://mara1080.com/event/2b3a03c4-4fc6-4d34-8a33-2449fafcaa23"
+  },
+  {
    "date": "2027-03-21",
    "dow": "일",
    "name": "2027 서울마라톤",
@@ -9754,6 +9897,38 @@
   {
    "date": "2027-03-28",
    "dow": "일",
+   "name": "제34회 315마라톤",
+   "location": "3.15해양누리공원",
+   "region": null,
+   "distances": [
+    "10km",
+    "5km"
+   ],
+   "organizer": "315의거기념사업회",
+   "phone": "070-7703-3150",
+   "registration": "2026년12월21일~2027년2월28일",
+   "homepage": "http://www.masanmarathon.or.kr/"
+  },
+  {
+   "date": "2027-03-28",
+   "dow": "일",
+   "name": "제26회 합천벚꽃마라톤",
+   "location": "합천공설운동장",
+   "region": null,
+   "distances": [
+    "풀",
+    "하프",
+    "10km",
+    "5km"
+   ],
+   "organizer": "합천군체육회",
+   "phone": "055-931-9625",
+   "registration": "2026년12월1일~2026년12월31일",
+   "homepage": "http://www.hcmrt.or.kr/ko/index.html"
+  },
+  {
+   "date": "2027-03-28",
+   "dow": "일",
    "name": "제3회 영광광풍마라톤",
    "location": "영광 스포디움",
    "region": null,
@@ -9766,6 +9941,54 @@
    "phone": "042-638-1080",
    "registration": "2026년9월17일~2026년10월30일",
    "homepage": "http://mara1080.com/event/92394e8e-a27c-4c3a-b286-7233340a9e7a"
+  },
+  {
+   "date": "2027-04-04",
+   "dow": "일",
+   "name": "2027 영주소백산마라톤",
+   "location": "영주시민운동장",
+   "region": "경북 영주",
+   "distances": [
+    "풀",
+    "하프",
+    "10km",
+    "5km"
+   ],
+   "organizer": "영주시 · 매일신문사",
+   "phone": "031-575-7243",
+   "registration": "2026년11월23일~2026년12월31일",
+   "homepage": "http://www.sobaekmarathon.go.kr"
+  },
+  {
+   "date": "2027-04-10",
+   "dow": "토",
+   "name": "제16회 양천마라톤대회",
+   "location": "(목동) 안양천 해마루축구장",
+   "region": "경기 안양",
+   "distances": [
+    "하프",
+    "10km",
+    "5km"
+   ],
+   "organizer": "양천구",
+   "phone": "02-2647-4488",
+   "registration": "2027년1월16일~2027년2월1일",
+   "homepage": "http://ycrun.com"
+  },
+  {
+   "date": "2027-04-11",
+   "dow": "일",
+   "name": "제6회 산악울트라 UTMB,ITRA",
+   "location": "수서역7번출구",
+   "region": null,
+   "distances": [
+    "90km",
+    "38km"
+   ],
+   "organizer": "(사)한국산악마라톤연맹",
+   "phone": "02-424-2195",
+   "registration": "2026년10월15일~2026년12월15일",
+   "homepage": "http://koreatrail.net"
   },
   {
    "date": "2027-04-11",
@@ -9806,7 +10029,6 @@
    "location": "강릉시 옥계면",
    "region": "강원 강릉",
    "distances": [
-    "10km",
     "11k-개인",
     "11k-커플런(2인-남",
     "여)"
@@ -9832,6 +10054,23 @@
    "phone": "054-241-0855",
    "registration": "2026년12월1일~2027년1월31일",
    "homepage": "http://www.phrun.co.kr/"
+  },
+  {
+   "date": "2027-05-16",
+   "dow": "일",
+   "name": "제39회지리산UTMB INDEX 및 ITRA",
+   "location": "화엄사주차징",
+   "region": null,
+   "distances": [
+    "48km",
+    "40km",
+    "34km",
+    "21km"
+   ],
+   "organizer": "(사)한국산악마라톤전남광주연맹",
+   "phone": "010-3631-1413",
+   "registration": "2026년11월8일~2027년4월31일",
+   "homepage": "http://koreatrail.net"
   },
   {
    "date": "2027-05-16",
